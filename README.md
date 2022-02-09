@@ -18,4 +18,6 @@ yarn add -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-co
 * Create file .prettierignore
 * Create file .eslintrc.json
 * Create file .eslintignore
+* Configuration path in tsconfig.json add 'baseUrl' and  'paths'
+
 
