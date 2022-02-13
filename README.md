@@ -21,3 +21,9 @@ yarn add -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-co
 * Configuration path in tsconfig.json add 'baseUrl' and  'paths'
 
 
+### Configuration Material UI
+
+* https://github.com/mui/material-ui/tree/master/examples/nextjs
+
+yarn add @emotion/cache @emotion/react @emotion/server @emotion/styled @mui/icons-material @mui/material prop-types
+
